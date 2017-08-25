@@ -23,7 +23,7 @@
        id="selected_bg_color"
        osb:paint="solid">
       <stop
-         style="stop-color:#5294e2;stop-opacity:1;"
+         style="stop-color:#989898;stop-opacity:1;"
          offset="0"
          id="stop4137" />
     </linearGradient>
@@ -39,7 +39,7 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#cacaca"
+     pagecolor="#CACACA"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0"

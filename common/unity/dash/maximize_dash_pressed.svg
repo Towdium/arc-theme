@@ -24,7 +24,7 @@
        id="selected_bg_color"
        osb:paint="solid">
       <stop
-         style="stop-color:#5294e2;stop-opacity:1;"
+         style="stop-color:#989898;stop-opacity:1;"
          offset="0"
          id="stop4170" />
     </linearGradient>
@@ -42,22 +42,22 @@
     <linearGradient
        id="linearGradient4882">
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
+         style="stop-color:#FFFFFF;stop-opacity:1;"
          offset="0"
          id="stop4884" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
+         style="stop-color:#FFFFFF;stop-opacity:0;"
          offset="1"
          id="stop4886" />
     </linearGradient>
     <linearGradient
        id="linearGradient3784-6">
       <stop
-         style="stop-color:#ffffff;stop-opacity:0.21568628;"
+         style="stop-color:#FFFFFF;stop-opacity:0.21568628;"
          offset="0"
          id="stop3786-4" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
+         style="stop-color:#FFFFFF;stop-opacity:0;"
          offset="1"
          id="stop3788-6" />
     </linearGradient>
@@ -66,22 +66,22 @@
       <stop
          id="stop4894"
          offset="0"
-         style="stop-color:#2f3a42;stop-opacity:1;" />
+         style="stop-color:#393939;stop-opacity:1;" />
       <stop
          id="stop4896"
          offset="1"
-         style="stop-color:#1d242a;stop-opacity:1;" />
+         style="stop-color:#242424;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        id="linearGradient4882-4">
       <stop
          id="stop4884-9"
          offset="0"
-         style="stop-color:#728495;stop-opacity:1;" />
+         style="stop-color:#848484;stop-opacity:1;" />
       <stop
          id="stop4886-9"
          offset="1"
-         style="stop-color:#617c95;stop-opacity:0;" />
+         style="stop-color:#7B7B7B;stop-opacity:0;" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -95,7 +95,7 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#f0f1f2"
+     pagecolor="#F1F1F1"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="1"
@@ -180,57 +180,57 @@
         <g
            id="g4806-5-2-2-9"
            transform="translate(1294,247)"
-           style="fill:#c0e3ff;fill-opacity:1">
+           style="fill:#E1E1E1;fill-opacity:1">
           <g
              transform="translate(-81.0002,-967)"
-             style="display:inline;fill:#c0e3ff;fill-opacity:1"
+             style="display:inline;fill:#E1E1E1;fill-opacity:1"
              inkscape:label="status"
              id="layer9-78-2-0-0-8" />
           <g
              transform="translate(-81.0002,-967)"
              inkscape:label="devices"
              id="layer10-3-9-9-51-2"
-             style="fill:#c0e3ff;fill-opacity:1" />
+             style="fill:#E1E1E1;fill-opacity:1" />
           <g
              transform="translate(-81.0002,-967)"
              inkscape:label="apps"
              id="layer11-19-7-6-4-7"
-             style="fill:#c0e3ff;fill-opacity:1" />
+             style="fill:#E1E1E1;fill-opacity:1" />
           <g
              transform="translate(-81.0002,-967)"
              inkscape:label="places"
              id="layer13-4-7-4-0-9"
-             style="fill:#c0e3ff;fill-opacity:1" />
+             style="fill:#E1E1E1;fill-opacity:1" />
           <g
              transform="translate(-81.0002,-967)"
              inkscape:label="mimetypes"
              id="layer14-8-9-7-6-0"
-             style="fill:#c0e3ff;fill-opacity:1" />
+             style="fill:#E1E1E1;fill-opacity:1" />
           <g
              transform="translate(-81.0002,-967)"
-             style="display:inline;fill:#c0e3ff;fill-opacity:1"
+             style="display:inline;fill:#E1E1E1;fill-opacity:1"
              inkscape:label="emblems"
              id="layer15-5-4-2-4-4" />
           <g
              transform="translate(-81.0002,-967)"
-             style="display:inline;fill:#c0e3ff;fill-opacity:1"
+             style="display:inline;fill:#E1E1E1;fill-opacity:1"
              inkscape:label="emotes"
              id="g71291-1-4-6-4-2" />
           <g
              transform="translate(-81.0002,-967)"
-             style="display:inline;fill:#c0e3ff;fill-opacity:1"
+             style="display:inline;fill:#E1E1E1;fill-opacity:1"
              inkscape:label="categories"
              id="g4953-7-0-8-22-2" />
           <g
              transform="translate(-81.0002,-967)"
-             style="display:inline;fill:#c0e3ff;fill-opacity:1"
+             style="display:inline;fill:#E1E1E1;fill-opacity:1"
              inkscape:label="actions"
              id="layer12-3-7-2-3-1">
             <path
                sodipodi:nodetypes="csscccsscc"
                inkscape:connector-curvature="0"
                d="m 87.799705,972 3.381737,0 c 0.450297,0 0.816227,0.36847 0.818758,0.8188 l 0,3.3817 z m 2.407413,6.00692 -3.395078,0 c -0.450346,0 -0.818758,-0.36842 -0.818758,-0.81875 l 0,-3.39509 4.213836,4.21384"
-               style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+               style="fill:#FFFFFF;fill-opacity:1;fill-rule:evenodd;stroke:none"
                id="path4293-4-9-0-2" />
           </g>
         </g>

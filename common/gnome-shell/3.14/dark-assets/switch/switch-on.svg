@@ -23,7 +23,7 @@
        id="selected_bg_color"
        osb:paint="solid">
       <stop
-         style="stop-color:#5294e2;stop-opacity:1;"
+         style="stop-color:#989898;stop-opacity:1;"
          offset="0"
          id="stop4166" />
     </linearGradient>
@@ -41,7 +41,7 @@
     <linearGradient
        id="linearGradient3768-6">
       <stop
-         style="stop-color:#0f0f0f;stop-opacity:1;"
+         style="stop-color:#0F0F0F;stop-opacity:1;"
          offset="0"
          id="stop3770-0" />
       <stop
@@ -53,18 +53,18 @@
          offset="0.97355771"
          id="stop3774-2" />
       <stop
-         style="stop-color:#1b1b1b;stop-opacity:1;"
+         style="stop-color:#1B1B1B;stop-opacity:1;"
          offset="1"
          id="stop3776-2" />
     </linearGradient>
     <linearGradient
        id="linearGradient3969-0-4">
       <stop
-         style="stop-color:#353537;stop-opacity:1;"
+         style="stop-color:#363636;stop-opacity:1;"
          offset="0"
          id="stop3971-2-6" />
       <stop
-         style="stop-color:#4d4f52;stop-opacity:1;"
+         style="stop-color:#4F4F4F;stop-opacity:1;"
          offset="1"
          id="stop3973-0-1" />
     </linearGradient>
@@ -73,33 +73,33 @@
       <stop
          id="stop3940"
          offset="0"
-         style="stop-color:#ffffff;stop-opacity:0;" />
+         style="stop-color:#FFFFFF;stop-opacity:0;" />
       <stop
          id="stop3942"
          offset="1"
-         style="stop-color:#ffffff;stop-opacity:0.54901963;" />
+         style="stop-color:#FFFFFF;stop-opacity:0.54901963;" />
     </linearGradient>
     <linearGradient
        id="linearGradient6523">
       <stop
          id="stop6525"
          offset="0"
-         style="stop-color:#1a1a1a;stop-opacity:1;" />
+         style="stop-color:#1A1A1A;stop-opacity:1;" />
       <stop
          id="stop6527"
          offset="1"
-         style="stop-color:#1a1a1a;stop-opacity:0;" />
+         style="stop-color:#1A1A1A;stop-opacity:0;" />
     </linearGradient>
     <linearGradient
        id="linearGradient3938-6">
       <stop
          id="stop3940-4"
          offset="0"
-         style="stop-color:#bebebe;stop-opacity:1;" />
+         style="stop-color:#BEBEBE;stop-opacity:1;" />
       <stop
          id="stop3942-8"
          offset="1"
-         style="stop-color:#ffffff;stop-opacity:1;" />
+         style="stop-color:#FFFFFF;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -113,7 +113,7 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#FFFFFF"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
@@ -203,7 +203,7 @@
                ry="11"
                rx="11" />
             <circle
-               style="fill:#353a47;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               style="fill:#3D3D3D;fill-opacity:1;fill-rule:nonzero;stroke:none"
                id="path3759-0-75"
                cx="41"
                cy="1041.3622"
@@ -223,7 +223,7 @@
            height="1.9999826"
            width="5"
            id="rect3977-39-2-13"
-           style="display:inline;opacity:1;fill:#353a47;fill-opacity:1;stroke:none" />
+           style="display:inline;opacity:1;fill:#3D3D3D;fill-opacity:1;stroke:none" />
         <rect
            transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)"
            ry="0"
@@ -232,7 +232,7 @@
            height="7.9999828"
            width="2"
            id="rect3979-7-0-65"
-           style="display:inline;opacity:1;fill:#353a47;fill-opacity:1;stroke:none" />
+           style="display:inline;opacity:1;fill:#3D3D3D;fill-opacity:1;stroke:none" />
       </g>
     </g>
   </g>

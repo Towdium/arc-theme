@@ -26,7 +26,7 @@
        id="selected_fg_color"
        osb:paint="solid">
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
+         style="stop-color:#FFFFFF;stop-opacity:1;"
          offset="0"
          id="stop4169" />
     </linearGradient>
@@ -34,25 +34,25 @@
        id="selected_bg_color"
        osb:paint="solid">
       <stop
-         style="stop-color:#5294e2;stop-opacity:1;"
+         style="stop-color:#989898;stop-opacity:1;"
          offset="0"
          id="stop4166" />
     </linearGradient>
     <linearGradient
        id="linearGradient7704">
       <stop
-         style="stop-color:#4080fb;stop-opacity:0.74509805;"
+         style="stop-color:#949494;stop-opacity:0.74509805;"
          offset="0"
          id="stop7706" />
       <stop
-         style="stop-color:#4080fb;stop-opacity:0.49197862;"
+         style="stop-color:#949494;stop-opacity:0.49197862;"
          offset="1"
          id="stop7708" />
     </linearGradient>
     <linearGradient
        id="linearGradient7694">
       <stop
-         style="stop-color:#0f0f0f;stop-opacity:1;"
+         style="stop-color:#0F0F0F;stop-opacity:1;"
          offset="0"
          id="stop7696" />
       <stop
@@ -64,18 +64,18 @@
          offset="0.97355771"
          id="stop7700" />
       <stop
-         style="stop-color:#1b1b1b;stop-opacity:1;"
+         style="stop-color:#1B1B1B;stop-opacity:1;"
          offset="1"
          id="stop7702" />
     </linearGradient>
     <linearGradient
        id="linearGradient3969-0-4-9">
       <stop
-         style="stop-color:#353537;stop-opacity:1;"
+         style="stop-color:#363636;stop-opacity:1;"
          offset="0"
          id="stop3971-2-2-7" />
       <stop
-         style="stop-color:#4d4f52;stop-opacity:1;"
+         style="stop-color:#4F4F4F;stop-opacity:1;"
          offset="1"
          id="stop3973-0-5-3" />
     </linearGradient>
@@ -109,7 +109,7 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#FFFFFF"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
@@ -222,7 +222,7 @@
           <g
              id="g3981-6-4"
              transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,729.95475,305.0582)"
-             style="opacity:0.85;fill:#1a1a1a;fill-opacity:1" />
+             style="opacity:0.85;fill:#1A1A1A;fill-opacity:1" />
           <g
              id="g4049-2"
              transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,727.94436,295.31123)">
@@ -232,7 +232,7 @@
               <g
                  id="g3981-0"
                  transform="translate(-3,-4.9999826)"
-                 style="fill:#3b3c3e;fill-opacity:1">
+                 style="fill:#3C3C3C;fill-opacity:1">
                 <rect
                    ry="0.66666085"
                    rx="0.66666085"
@@ -252,7 +252,7 @@
                    style="fill:url(#linearGradient4173);fill-opacity:1;stroke:none" />
               </g>
               <rect
-                 style="fill:#eeeeee;fill-opacity:0;stroke:none"
+                 style="fill:#EEEEEE;fill-opacity:0;stroke:none"
                  id="rect4047-81"
                  width="3"
                  height="1"

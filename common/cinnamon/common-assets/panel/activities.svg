@@ -21,10 +21,10 @@
    version="1.0"
    style="display:inline;enable-background:new">
   <sodipodi:namedview
-     stroke="#ef2929"
-     fill="#f57900"
+     stroke="#6B6B6B"
+     fill="#7A7A7A"
      id="base"
-     pagecolor="#bebebe"
+     pagecolor="#BEBEBE"
      bordercolor="#525252"
      borderopacity="1"
      inkscape:pageopacity="1"
@@ -59,9 +59,9 @@
      guidetolerance="10000"
      borderlayer="true"
      showborder="true"
-     guidecolor="#ff0b00"
+     guidecolor="#595959"
      guideopacity="1"
-     guidehicolor="#001aff"
+     guidehicolor="#5E5E5E"
      guidehiopacity="0.49803922">
     <inkscape:grid
        type="xygrid"
@@ -134,21 +134,21 @@
      id="layer1"
      transform="translate(0,-276)">
     <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#FFFFFF;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4138"
        width="2"
        height="2"
        x="5"
        y="287" />
     <rect
-       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
+       style="display:inline;opacity:1;fill:#FFFFFF;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
        id="rect4138-6"
        width="2"
        height="2"
        x="11"
        y="287" />
     <rect
-       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
+       style="display:inline;opacity:1;fill:#FFFFFF;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
        id="rect4138-9"
        width="2"
        height="2"
